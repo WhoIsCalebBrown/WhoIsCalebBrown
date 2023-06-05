@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Leetcode Stats](https://leetcard.whoiscalebbrown.cool/whoiscalebbrown)
+![Leetcode Stats](https://leetcard.jacoblin.cool/whoiscalebbrown)
