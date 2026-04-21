@@ -58,4 +58,3 @@ A real-time multiplayer geo-guessing game with ELO ranking, adaptive scoring, ma
 
 - Email: brown.caleb@hotmail.com
 - Website: https://calebs.info
-- GitHub: https://github.com/WhoIsCalebBrown
