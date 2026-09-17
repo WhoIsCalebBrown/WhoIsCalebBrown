@@ -56,5 +56,4 @@ A real-time multiplayer geo-guessing game with ELO ranking, adaptive scoring, ma
 
 ## Contact
 
-- Email: brown.caleb@hotmail.com
 - Website: https://calebs.info
