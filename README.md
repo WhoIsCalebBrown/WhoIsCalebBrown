@@ -10,15 +10,17 @@ and the practical work of running software at home.
 
 ## Recent work
 
+- **[LifeOS](https://lifeos.calebs.online)** — a full-stack PWA for tasks,
+  habits, finance, and fitness, with scheduling, calendar sync, notifications,
+  and billing.
+- **[NMPZ](https://nmpz.calebs.online)** — a real-time multiplayer
+  geo-guessing game with matchmaking, ELO rankings, and live state sync.
 - **[Mic Effects](https://github.com/WhoIsCalebBrown/mic-effects)** — a
   system-wide virtual microphone and console-style effects rack for Omarchy,
   built with PipeWire, C++, and QML.
 - **[Inkwell](https://github.com/WhoIsCalebBrown/inkwell)** — a self-hosted
   request front end for Mylar3 that follows comic volumes from discovery to a
   Komga shelf.
-- **[Git PR Flow](https://github.com/WhoIsCalebBrown/git-pr-flow)** — a Git hook
-  that turns direct pushes to `main` into CI-gated, squash-merged pull requests
-  without changing the everyday workflow.
 - **[Home AI](https://github.com/WhoIsCalebBrown/home-ai)** — the assistant and
   allowlisted tool services behind a local, voice-enabled home AI setup.
 
