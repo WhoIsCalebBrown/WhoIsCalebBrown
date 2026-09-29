@@ -25,5 +25,3 @@ and the practical work of running software at home.
 I also maintain an Unraid homelab, contribute fixes and desktop integrations
 around [Omarchy](https://github.com/basecamp/omarchy), and build small tools
 when an existing workflow has one annoyance too many.
-
-[Website](https://calebs.info) · [Email](mailto:caleb.brown9999@gmail.com)
